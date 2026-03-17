@@ -39,6 +39,3 @@ http://localhost:8081
 
 Displays a simple HTML page:
 "Hello from Docker "
-
-
-✅ This project is useful for beginners to understand Docker basics.
